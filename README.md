@@ -46,12 +46,6 @@ Plataforma para reserva de canchas de tenis.
 * Flutter
 * PostgreSQL
 
-**Herramientas:**
-
-* VS Code
-* Figma
-* Git & GitHub
-
 ---
 
 ## 📚 Actualmente
