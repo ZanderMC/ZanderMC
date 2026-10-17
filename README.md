@@ -20,31 +20,7 @@ Me enfoco en crear soluciones web rápidas, funcionales y listas para producció
 
 ## 🏆 Proyecto destacado
 
-### 🎾 Tennis App
 
-Plataforma para reserva de canchas de tenis.
-
-🔗 Demo: ( proximamante link )
-🔗 Código: ( proximamante link )
-
-✨ Features:
-
-* Sistema de reservas con calendario
-* Panel de administración
-* Integración de pagos con Mercado Pago
-* Interfaz moderna y responsive
-
----
-
-## 🛠️ Tecnologías
-
-**Frontend & Fullstack:**
-
-* HTML, CSS, JavaScript , Typescript
-* React, Next.js
-* Astro
-* Flutter
-* PostgreSQL
 
 ---
 
@@ -54,15 +30,7 @@ Plataforma para reserva de canchas de tenis.
 * Aprendiendo sobre performance y optimización web
 * Construyendo proyectos enfocados en producción
 
----
 
-## 🤝 Disponible para
-
-* Freelance
-* Prácticas / Internships
-* Trabajo remoto
-
-📩 Contáctame: (aqui ira un link)
 
 ---
 
