@@ -1,6 +1,6 @@
 # ¡Hola! 🔥
 
-Soy Michael Alexander Bravo Granadoos, desarrollador web basado en Lima, Perú 🇵🇪.
+Soy Michael Alexander Bravo Granadoos
 
 Transformo ideas en aplicaciones web reales.
 Especializado en crear productos modernos, rápidos y listos para usuarios. 🚀
