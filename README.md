@@ -6,7 +6,7 @@ Transformo ideas en aplicaciones web reales.
 Especializado en crear productos modernos, rápidos y listos para usuarios. 🚀
 
 ---
-## 🏆 Proyecto destacado
+## 🏆 Proyectos destacados
 
 TennisApp
 Sistema de reservas de canchas de tenis.
@@ -22,7 +22,25 @@ Features
 - Panel administrativo para reservas y estadísticas.
 - Landing page y flujo de reservas responsive.
 - Persistencia en PostgreSQL mediante Prisma ORM.
-  
+
+Ecommerceapp
+**Live Demo:** [e-commerceapp-zdr.vercel.app](https://e-commerceapp-zdr.vercel.app/)
+
+
+English
+
+Features
+-User registration, login, and session management with Supabase Auth.
+-Product catalog with categories, images, sizes, descriptions, and offers.
+-Product detail pages and responsive shopping experience.
+-Shopping cart with product quantities and selected sizes.
+-Favorites for authenticated users.
+-Stripe Checkout integration for one-time payments in PEN.
+-Secure server-side price validation before creating a checkout session.
+-Checkout success, cancellation, and payment status pages.
+-Stripe webhook processing for completed, failed, asynchronous, and expired payments.
+-Supabase Row Level Security support for application data.
+-Responsive layout for desktop and mobile devices.
 ---
 
 ## 📚 Actualmente
