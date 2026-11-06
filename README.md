@@ -32,8 +32,6 @@ E-commerce de venta de ropa.
 **Live Demo:** [e-commerceapp-zdr.vercel.app](https://e-commerceapp-zdr.vercel.app/)
 
 
-English
-
 Features
 - User registration, login, and session management with Supabase Auth.
 - Product catalog with categories, images, sizes, descriptions, and offers.
@@ -52,7 +50,7 @@ Features
 ## 📚 Actualmente
 
 * Mejorando mis habilidades en Next.js y desarrollo fullstack
-* Aprendiendo sobre performance y optimización web
+* Aprendiendo sobre testing, performance y optimización web
 * Construyendo proyectos enfocados en producción
 
 ---
