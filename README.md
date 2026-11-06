@@ -41,6 +41,7 @@ Features
 -Stripe webhook processing for completed, failed, asynchronous, and expired payments.
 -Supabase Row Level Security support for application data.
 -Responsive layout for desktop and mobile devices.
+
 ---
 
 ## 📚 Actualmente
