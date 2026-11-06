@@ -9,7 +9,9 @@ Especializado en crear productos modernos, rápidos y listos para usuarios. 🚀
 ## 🏆 Proyectos destacados
 
 TennisApp.
+
 Sistema de reservas de canchas de tenis.
+
 **Live Demo:** [tennisapp-zndr.vercel.app](https://tennisapp-zndr.vercel.app/)
 
 Features
@@ -24,7 +26,9 @@ Features
 - Persistencia en PostgreSQL mediante Prisma ORM.
 
 Ecommerceapp.
+
 E-commerce de venta de ropa.
+
 **Live Demo:** [e-commerceapp-zdr.vercel.app](https://e-commerceapp-zdr.vercel.app/)
 
 
