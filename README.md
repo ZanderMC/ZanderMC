@@ -30,17 +30,17 @@ Ecommerceapp
 English
 
 Features
--User registration, login, and session management with Supabase Auth.
--Product catalog with categories, images, sizes, descriptions, and offers.
--Product detail pages and responsive shopping experience.
--Shopping cart with product quantities and selected sizes.
--Favorites for authenticated users.
--Stripe Checkout integration for one-time payments in PEN.
--Secure server-side price validation before creating a checkout session.
--Checkout success, cancellation, and payment status pages.
--Stripe webhook processing for completed, failed, asynchronous, and expired payments.
--Supabase Row Level Security support for application data.
--Responsive layout for desktop and mobile devices.
+- User registration, login, and session management with Supabase Auth.
+- Product catalog with categories, images, sizes, descriptions, and offers.
+- Product detail pages and responsive shopping experience.
+- Shopping cart with product quantities and selected sizes.
+- Favorites for authenticated users.
+- Stripe Checkout integration for one-time payments in PEN.
+- Secure server-side price validation before creating a checkout session.
+- Checkout success, cancellation, and payment status pages.
+- Stripe webhook processing for completed, failed, asynchronous, and expired payments.
+- Supabase Row Level Security support for application data.
+- Responsive layout for desktop and mobile devices.
 
 ---
 
