@@ -8,7 +8,7 @@ Especializado en crear productos modernos, rápidos y listos para usuarios. 🚀
 ---
 ## 🏆 Proyectos destacados
 
-TennisApp.
+1.- TennisApp.
 
 Sistema de reservas de canchas de tenis.
 
@@ -25,7 +25,7 @@ Features
 - Landing page y flujo de reservas responsive.
 - Persistencia en PostgreSQL mediante Prisma ORM.
 
-Ecommerceapp.
+2.- Ecommerceapp.
 
 E-commerce de venta de ropa.
 
