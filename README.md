@@ -1,6 +1,6 @@
 # ¡Hola! 🔥
 
-Soy Michael Alexander Bravo Granadoos
+Soy Michael Alexander Bravo Granados
 
 Transformo ideas en aplicaciones web reales.
 Especializado en crear productos modernos, rápidos y listos para usuarios. 🚀
