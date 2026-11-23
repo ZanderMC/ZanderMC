@@ -60,7 +60,6 @@ Features
 * Me gusta construir proyectos desde cero y ver cómo cobran vida
 * Disfruto aprender nuevas tecnologías constantemente
 * Me interesa el diseño limpio y las buenas experiencias de usuario
-* Me gusta resolver problemas reales con código
 * Siempre busco mejorar mis habilidades
 
 
